@@ -2,4 +2,4 @@
 echo 'ok';
 echo 'yes';
 
-function test() { }
+function test() { return false; }
